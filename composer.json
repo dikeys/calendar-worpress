@@ -1,0 +1,11 @@
+{
+    "name": "kitoko/calendar-reservation",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./inc"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+   
+}
